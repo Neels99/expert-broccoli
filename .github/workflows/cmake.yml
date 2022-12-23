@@ -34,9 +34,13 @@ jobs:
 
       - name: GCC INSTALL
         run: |
-          echo "Adding ppa:ubuntu-toolchain-r/test apt-repository "
-          deb http://dk.archive.ubuntu.com/ubuntu/ xenial main
-          deb http://dk.archive.ubuntu.com/ubuntu/ xenial universe
+               sudo add-apt-repository 'deb http://dk.archive.ubuntu.com/ubuntu/ xenial main'
+               sudo add-apt-repository 'deb http://dk.archive.ubuntu.com/ubuntu/ xenial universe'
+#          echo "Adding ppa:ubuntu-toolchain-r/test apt-repository "
+#
+#          wget http://dk.archive.ubuntu.com/ubuntu/
+#          deb http://dk.archive.ubuntu.com/ubuntu/ xenial main
+#          deb http://dk.archive.ubuntu.com/ubuntu/ xenial universe
           sudo apt-get update
           sudo apt-get -y install gcc-8 g++-8
 
