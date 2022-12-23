@@ -37,6 +37,8 @@ jobs:
           echo "Adding ppa:ubuntu-toolchain-r/test apt-repository "
           sudo add-apt-repository ppa:ubuntu-toolchain-r/test -y
           sudo apt-get -y update 
+          . /etc/os-release
+          echo "$VERSION"
           
           sudo apt-get -y install build-essential
           sudo apt-get -y install gcc-9 g++-9
