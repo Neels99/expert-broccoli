@@ -12,7 +12,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1eb2e17-fdf1-444f-bc5d-a62826fa1ae2" name="Changes" comment="11 (echo version)" />
+    <list default="true" id="c1eb2e17-fdf1-444f-bc5d-a62826fa1ae2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.github/workflows/cmake.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -141,7 +144,21 @@
       <option name="project" value="LOCAL" />
       <updated>1671789382983</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Revert &quot;1&quot;&#10;&#10;This reverts commit cc12d1e1">
+      <created>1671790111832</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1671790111832</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Revert &quot;2&quot;&#10;&#10;This reverts commit f8995840">
+      <created>1671790127687</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1671790127687</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +188,8 @@
     <MESSAGE value="9" />
     <MESSAGE value="10" />
     <MESSAGE value="11 (echo version)" />
-    <option name="LAST_COMMIT_MESSAGE" value="11 (echo version)" />
+    <MESSAGE value="Revert &quot;1&quot;&#10;&#10;This reverts commit cc12d1e1" />
+    <MESSAGE value="Revert &quot;2&quot;&#10;&#10;This reverts commit f8995840" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;2&quot;&#10;&#10;This reverts commit f8995840" />
   </component>
 </project>
