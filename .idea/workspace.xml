@@ -12,8 +12,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1eb2e17-fdf1-444f-bc5d-a62826fa1ae2" name="Changes" comment="">
+    <list default="true" id="c1eb2e17-fdf1-444f-bc5d-a62826fa1ae2" name="Changes" comment="6">
       <change beforePath="$PROJECT_DIR$/.github/workflows/cmake.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/cmake.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671787373540</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="6">
+      <created>1671787526071</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1671787526071</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +133,7 @@
     <MESSAGE value="3.1" />
     <MESSAGE value="3.2" />
     <MESSAGE value="Revert &quot;test revert&quot;&#10;&#10;This reverts commit 081651b0" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;test revert&quot;&#10;&#10;This reverts commit 081651b0" />
+    <MESSAGE value="6" />
+    <option name="LAST_COMMIT_MESSAGE" value="6" />
   </component>
 </project>
