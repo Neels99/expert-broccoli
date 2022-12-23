@@ -34,8 +34,8 @@ jobs:
 
       - name: GCC INSTALL
         run: |
-               sudo add-apt-repository 'deb http://dk.archive.ubuntu.com/ubuntu/ xenial main'
-               sudo add-apt-repository 'deb http://dk.archive.ubuntu.com/ubuntu/ xenial universe'
+          sudo add-apt-repository 'deb http://dk.archive.ubuntu.com/ubuntu/ xenial main'
+          sudo add-apt-repository 'deb http://dk.archive.ubuntu.com/ubuntu/ xenial universe'
 #          echo "Adding ppa:ubuntu-toolchain-r/test apt-repository "
 #
 #          wget http://dk.archive.ubuntu.com/ubuntu/
