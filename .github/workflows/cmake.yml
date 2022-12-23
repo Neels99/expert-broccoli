@@ -36,8 +36,8 @@ jobs:
         run: |
           echo "Adding ppa:ubuntu-toolchain-r/test apt-repository "
           sudo add-apt-repository ppa:ubuntu-toolchain-r/test -y
-          sudo apt-get -y update 
-          sudo add-apt-repository "deb [arch=amd64] http://archive.ubuntu.com/ubuntu focal main universe"
+          sudo apt-get -y update
+          sudo add-apt-repository "deb http://archive.ubuntu.com/ubuntu focal main universe"
 #          sudo add-apt-repository "deb http://dk.archive.ubuntu.com/ubuntu/ xenial universe"
           
           sudo apt-get -y install build-essential

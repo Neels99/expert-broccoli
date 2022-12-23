@@ -14,6 +14,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c1eb2e17-fdf1-444f-bc5d-a62826fa1ae2" name="Changes" comment="test revert">
       <change beforePath="$PROJECT_DIR$/.github/workflows/cmake.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/cmake.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1671785763703</updated>
       <workItem from="1671785764985" duration="1078000" />
-      <workItem from="1671786852183" duration="434000" />
+      <workItem from="1671786852183" duration="477000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1671786158053</created>
@@ -123,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671787094623</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="test revert">
+      <created>1671787292618</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1671787292618</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
